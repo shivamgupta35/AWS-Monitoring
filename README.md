@@ -29,10 +29,8 @@ Allows users to view specific parts of the dashboard using command-line switches
 
 
 ## STEP 1 : Setting up environment 
-- Open amazon console , create a EC2 instance (**proxy-server-manthan**),connect it
-![image.png](https://eraser.imgix.net/workspaces/GBHFALPZe7MCxpsON0zO/4hCfQr0B1VTjDXjuDnR8mUtnais1/g4GN3gr9DXSMSc3FdmtPk.png?ixlib=js-3.7.0 "image.png")
-
-
+- Open amazon console , create a EC2 instance (**test1**),connect it
+- check ssfile
 
 - Install git  
 ```
@@ -63,7 +61,7 @@ touch README.md
 - TO save the file `﻿ESC:wq ` 
  For example i have added a small description `﻿cat README.md ` to view file 
 
-![image.png](https://eraser.imgix.net/workspaces/GBHFALPZe7MCxpsON0zO/4hCfQr0B1VTjDXjuDnR8mUtnais1/CFibdIZdBslXDO91Dc_La.png?ixlib=js-3.7.0 "image.png")
+check ssfile
 
 
 
